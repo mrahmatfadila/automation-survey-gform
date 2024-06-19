@@ -1,0 +1,11 @@
+name,usia,jenis_kelamin,status_kelompok,soal1,soal2,soal3
+Ahmad Hakim,21-30,Laki-laki,Pelajar SMA,Setuju,Setuju,Sangat setuju
+Budi Santoso,<20,Laki-laki,Pelajar SMP,Sangat setuju,Setuju,Ragu-ragu
+Citra Wardhani,31-40,Perempuan,Mahasiswa,Tidak setuju,Sangat tidak setuju,Sangat setuju
+Dewi Lestari,>40,Perempuan,Guru,Sangat setuju,Ragu-ragu,Setuju
+Eko Nugroho,21-30,Laki-laki,Masyarakat biasa,Setuju,Tidak setuju,Sangat tidak setuju
+Fitri Susanti,<20,Perempuan,Pelajar SMA,Setuju,Setuju,Setuju
+Gita Permata,31-40,Perempuan,Mahasiswa,Ragu-ragu,Setuju,Sangat setuju
+Hendra Wijaya,>40,Laki-laki,Guru,Tidak setuju,Sangat setuju,Setuju
+Indah Sari,21-30,Perempuan,Masyarakat biasa,Setuju,Ragu-ragu,Sangat setuju
+Joko Prasetyo,<20,Laki-laki,Pelajar SMP,Sangat tidak setuju,Tidak setuju,Setuju
