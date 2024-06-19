@@ -1,7 +1,3 @@
-Berikut adalah contoh README yang bagus untuk proyek pengisian otomatis Google Form menggunakan Selenium dan JavaScript:
-
----
-
 # Auto-Google-Form
 
 Automate the process of filling out Google Forms using Selenium and JavaScript. This project reads data from a CSV file and fills out a Google Form based on the data.
